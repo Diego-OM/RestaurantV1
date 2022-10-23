@@ -9,6 +9,7 @@ import SwiftUI
 
 @main
 struct RestauranteV1App: App {
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
